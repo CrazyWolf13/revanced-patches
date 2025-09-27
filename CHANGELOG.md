@@ -1,3 +1,10 @@
+## [5.41.1](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.0...v5.41.1) (2025-09-27)
+
+
+### Bug Fixes
+
+* **Tiktok:** Bump Version to 39.8.1 ([38a70dc](https://github.com/CrazyWolf13/revanced-patches/commit/38a70dc0d6fc94efb8acba8831c5f2d5933117b3))
+
 # [5.41.0](https://github.com/ReVanced/revanced-patches/compare/v5.40.0...v5.41.0) (2025-09-27)
 
 
