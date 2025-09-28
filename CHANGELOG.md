@@ -1,3 +1,10 @@
+## [5.41.2](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.1...v5.41.2) (2025-09-28)
+
+
+### Bug Fixes
+
+* build gradle ([341d4aa](https://github.com/CrazyWolf13/revanced-patches/commit/341d4aa3698339cf47b9a2d3e45c4af1ca6d0875))
+
 ## [5.41.1](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.0...v5.41.1) (2025-09-27)
 
 
