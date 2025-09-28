@@ -18,8 +18,8 @@ val playbackSpeedPatch = bytecodePatch(
         "retains the speed configurations in between videos.",
 ) {
     compatibleWith(
-        "com.ss.android.ugc.trill"("39.8.1"),
-        "com.zhiliaoapp.musically"("39.8.1"),
+        "com.ss.android.ugc.trill"("41.4.1"),
+        "com.zhiliaoapp.musically"("41.4.1"),
     )
 
     execute {
