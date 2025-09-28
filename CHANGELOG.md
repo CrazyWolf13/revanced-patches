@@ -1,3 +1,10 @@
+## [5.41.3](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.2...v5.41.3) (2025-09-28)
+
+
+### Bug Fixes
+
+* maven repo url ([f5decea](https://github.com/CrazyWolf13/revanced-patches/commit/f5decea69c167abb64406a46902031ffab78efe7))
+
 ## [5.41.2](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.1...v5.41.2) (2025-09-28)
 
 
