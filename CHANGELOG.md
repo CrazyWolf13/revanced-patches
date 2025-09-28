@@ -1,3 +1,15 @@
+## [5.41.5](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.4...v5.41.5) (2025-09-28)
+
+
+### Bug Fixes
+
+* **tiktok:** bump downloads patch ([8767823](https://github.com/CrazyWolf13/revanced-patches/commit/8767823b04fe668b9a7ebfc03eca042c5969f384))
+
+
+### Reverts
+
+* **)tiktok:** version to 39.8.1 ([b148d4b](https://github.com/CrazyWolf13/revanced-patches/commit/b148d4bdbe77bbb29968a27df2e99805a9824a99))
+
 ## [5.41.4](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.3...v5.41.4) (2025-09-28)
 
 
