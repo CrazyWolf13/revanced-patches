@@ -1,3 +1,10 @@
+## [5.41.4](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.3...v5.41.4) (2025-09-28)
+
+
+### Bug Fixes
+
+* **TikTok:** Bump version to 41.4.1 ([61cc50e](https://github.com/CrazyWolf13/revanced-patches/commit/61cc50e8e81e74e541a9d118e4e71bc2d6e9ce85))
+
 ## [5.41.3](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.2...v5.41.3) (2025-09-28)
 
 
