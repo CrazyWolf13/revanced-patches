@@ -1,3 +1,24 @@
+## [5.41.3](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.2...v5.41.3) (2025-09-28)
+
+
+### Bug Fixes
+
+* maven repo url ([f5decea](https://github.com/CrazyWolf13/revanced-patches/commit/f5decea69c167abb64406a46902031ffab78efe7))
+
+## [5.41.2](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.1...v5.41.2) (2025-09-28)
+
+
+### Bug Fixes
+
+* build gradle ([341d4aa](https://github.com/CrazyWolf13/revanced-patches/commit/341d4aa3698339cf47b9a2d3e45c4af1ca6d0875))
+
+## [5.41.1](https://github.com/CrazyWolf13/revanced-patches/compare/v5.41.0...v5.41.1) (2025-09-27)
+
+
+### Bug Fixes
+
+* **Tiktok:** Bump Version to 39.8.1 ([38a70dc](https://github.com/CrazyWolf13/revanced-patches/commit/38a70dc0d6fc94efb8acba8831c5f2d5933117b3))
+
 # [5.41.0](https://github.com/ReVanced/revanced-patches/compare/v5.40.0...v5.41.0) (2025-09-27)
 
 
